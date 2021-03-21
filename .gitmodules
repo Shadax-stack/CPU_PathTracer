@@ -7,3 +7,6 @@
 [submodule "lib/assimp"]
 	path = lib/assimp
 	url = https://github.com/assimp/assimp
+[submodule "lib/GLAD"]
+	path = lib/GLAD
+	url = https://github.com/Shadax-stack/GLAD

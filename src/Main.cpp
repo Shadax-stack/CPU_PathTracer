@@ -81,7 +81,7 @@ int main() {
 
 	Mesh Object;
 
-	Object.LoadMesh("bin/res/Suzanne.obj");
+	Object.LoadMesh("res/Suzanne.obj");
 
 	Renderer.AddMesh(&Object);
 	
